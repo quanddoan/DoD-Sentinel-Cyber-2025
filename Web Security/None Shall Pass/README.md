@@ -1,6 +1,6 @@
 ## None Shall Pass
 ## Difficulty: Medium
-## Tools: Browser (Firefox), ![CyberChef](https://cyberchef.org/), ![Insomnia](https://insomnia.rest/download) (Or any other ![tools](https://www.guru99.com/top-6-api-testing-tool.html) for ![API testing](https://testsigma.com/guides/api-testing/))
+## Tools: Browser (Firefox), [CyberChef](https://cyberchef.org/), ![Insomnia](https://insomnia.rest/download) (Or any other [tools](https://www.guru99.com/top-6-api-testing-tool.html) for [API testing](https://testsigma.com/guides/api-testing/))
 ## Description: 
 Deep inside Juche Jaguar’s intranet runs a custom token‐based gateway protecting their most sensitive files at ```/secret```. We got our hands on a low‐privilege account (```user:pass = agent:spudpotato```) - use it to request an access token, then find a way to trick the gateway into granting you full admin rights and pull down the hidden intelligence (the flag) from ```/secret```. Good luck, Operative.
 ## Solve:
