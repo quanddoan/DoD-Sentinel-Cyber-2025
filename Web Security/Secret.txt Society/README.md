@@ -11,4 +11,4 @@ Our team suspects that a Juche Jaguar developer accidentally left something inte
 - Obviously, there must be something valuable in /juchejaguar/, so we append /juchejaguar/ to the original url, which will lead us to the site with the flag
 ![the flag](flag.jpg).
 
-Learn more about ![robots.txt files](https://www.cloudflare.com/learning/bots/what-is-robots-txt/)
+Learn more about [robots.txt files](https://www.cloudflare.com/learning/bots/what-is-robots-txt/)
